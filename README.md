@@ -10,4 +10,4 @@ If you don't know how create "client_id", "client_secret" and "refresh_token" ju
 
 https://developers.google.com/adwords/api/docs/guides/authentication
 
-Read the comments within code to know how to adapt to your project
+Read the comments in code to know how to adapt to your project
